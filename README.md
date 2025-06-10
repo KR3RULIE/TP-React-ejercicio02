@@ -1,4 +1,4 @@
-# Hello World App
+# Hello my friends
 
 Este es un proyecto básico de una aplicación web que muestra el mensaje **"Hello My Friends"** en pantalla. el **"My Firends"** se envia mediante props.
 
